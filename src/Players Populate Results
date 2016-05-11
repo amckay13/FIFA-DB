@@ -1,0 +1,1951 @@
+Mapped:17989 with 1494
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(17990, 'Mitchell Langerak')
+Added Player:Mitchell Langerak - 17990
+Mapped:17990 with 1494
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(17991, 'Eugene Galeković')
+Added Player:Eugene Galeković - 17991
+Mapped:17991 with 1494
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(17992, 'Ivan Franjić')
+Added Player:Ivan Franjić - 17992
+Mapped:17992 with 1494
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(17993, 'Jason Davidson')
+Added Player:Jason Davidson - 17993
+Mapped:17993 with 1494
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(17994, 'Matthew Špiranović')
+Added Player:Matthew Špiranović - 17994
+Mapped:17994 with 1494
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(17995, 'Bailey Wright')
+Added Player:Bailey Wright - 17995
+Mapped:17995 with 1494
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(17996, 'Ryan McGowan')
+Added Player:Ryan McGowan - 17996
+Mapped:17996 with 1494
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(17997, 'Alex Wilkinson')
+Added Player:Alex Wilkinson - 17997
+Mapped:17997 with 1494
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(17998, 'Mark Milligan')
+Added Player:Mark Milligan - 17998
+Mapped:17998 with 1494
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(17999, 'Ben Halloran')
+Added Player:Ben Halloran - 17999
+Mapped:17999 with 1494
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18000, 'Tommy Oar')
+Added Player:Tommy Oar - 18000
+Mapped:18000 with 1494
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18001, 'Oliver Bozanić')
+Added Player:Oliver Bozanić - 18001
+Mapped:18001 with 1494
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18002, 'James Troisi')
+Added Player:James Troisi - 18002
+Mapped:18002 with 1494
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18003, 'Mile Jedinak')
+Added Player:Mile Jedinak - 18003
+Mapped:18003 with 1494
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18004, 'James Holland')
+Added Player:James Holland - 18004
+Mapped:18004 with 1494
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18005, 'Matt McKay')
+Added Player:Matt McKay - 18005
+Mapped:18005 with 1494
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18006, 'Dario Vidošić')
+Added Player:Dario Vidošić - 18006
+Mapped:18006 with 1494
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18007, 'Massimo Luongo')
+Added Player:Massimo Luongo - 18007
+Mapped:18007 with 1494
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18008, 'Mark Bresciano')
+Added Player:Mark Bresciano - 18008
+Mapped:18008 with 1494
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18009, 'Tim Cahill')
+Added Player:Tim Cahill - 18009
+Mapped:18009 with 1494
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18010, 'Mathew Leckie')
+Added Player:Mathew Leckie - 18010
+Mapped:18010 with 1494
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18011, 'Adam Taggart')
+Added Player:Adam Taggart - 18011
+Mapped:18011 with 1494
+select * from TEAM t where t.NAME = 'bosnia-herzegovina' AND t.YEAR = 2014
+1495  
+bosnia-herzegovina2014
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18012, 'Asmir Begović')
+Added Player:Asmir Begović - 18012
+Mapped:18012 with 1495
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18013, 'Jasmin Fejzić')
+Added Player:Jasmin Fejzić - 18013
+Mapped:18013 with 1495
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18014, 'Asmir Avdukić')
+Added Player:Asmir Avdukić - 18014
+Mapped:18014 with 1495
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18015, 'Avdija Vršajević')
+Added Player:Avdija Vršajević - 18015
+Mapped:18015 with 1495
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18016, 'Ermin Bičakčić')
+Added Player:Ermin Bičakčić - 18016
+Mapped:18016 with 1495
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18017, 'Emir Spahić')
+Added Player:Emir Spahić - 18017
+Mapped:18017 with 1495
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18018, 'Sead Kolašinac')
+Added Player:Sead Kolašinac - 18018
+Mapped:18018 with 1495
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18019, 'Ognjen Vranješ')
+Added Player:Ognjen Vranješ - 18019
+Mapped:18019 with 1495
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18020, 'Muhamed Bešić')
+Added Player:Muhamed Bešić - 18020
+Mapped:18020 with 1495
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18021, 'Mensur Mujdža')
+Added Player:Mensur Mujdža - 18021
+Mapped:18021 with 1495
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18022, 'Toni Šunjić')
+Added Player:Toni Šunjić - 18022
+Mapped:18022 with 1495
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18023, 'Miralem Pjanić')
+Added Player:Miralem Pjanić - 18023
+Mapped:18023 with 1495
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18024, 'Zvjezdan Misimović')
+Added Player:Zvjezdan Misimović - 18024
+Mapped:18024 with 1495
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18025, 'Izet Hajrović')
+Added Player:Izet Hajrović - 18025
+Mapped:18025 with 1495
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18026, 'Senad Lulić')
+Added Player:Senad Lulić - 18026
+Mapped:18026 with 1495
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18027, 'Senijad Ibričić')
+Added Player:Senijad Ibričić - 18027
+Mapped:18027 with 1495
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18028, 'Haris Medunjanin')
+Added Player:Haris Medunjanin - 18028
+Mapped:18028 with 1495
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18029, 'Anel Hadžić')
+Added Player:Anel Hadžić - 18029
+Mapped:18029 with 1495
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18030, 'Tino-Sven Sušić')
+Added Player:Tino-Sven Sušić - 18030
+Mapped:18030 with 1495
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18031, 'Sejad Salihović')
+Added Player:Sejad Salihović - 18031
+Mapped:18031 with 1495
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18032, 'Vedad Ibišević')
+Added Player:Vedad Ibišević - 18032
+Mapped:18032 with 1495
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18033, 'Edin Džeko')
+Added Player:Edin Džeko - 18033
+Mapped:18033 with 1495
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18034, 'Edin Višća')
+Added Player:Edin Višća - 18034
+Mapped:18034 with 1495
+select * from TEAM t where t.NAME = 'belgium' AND t.YEAR = 2014
+1496  
+belgium2014
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18035, 'Thibaut Courtois')
+Added Player:Thibaut Courtois - 18035
+Mapped:18035 with 1496
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18036, 'Simon Mignolet')
+Added Player:Simon Mignolet - 18036
+Mapped:18036 with 1496
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18037, 'Sammy Bossut')
+Added Player:Sammy Bossut - 18037
+Mapped:18037 with 1496
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18038, 'Toby Alderweireld')
+Added Player:Toby Alderweireld - 18038
+Mapped:18038 with 1496
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18039, 'Thomas Vermaelen')
+Added Player:Thomas Vermaelen - 18039
+Mapped:18039 with 1496
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18040, 'Vincent Kompany')
+Added Player:Vincent Kompany - 18040
+Mapped:18040 with 1496
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18041, 'Jan Vertonghen')
+Added Player:Jan Vertonghen - 18041
+Mapped:18041 with 1496
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18042, 'Daniel Van Buyten')
+Added Player:Daniel Van Buyten - 18042
+Mapped:18042 with 1496
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18043, 'Nicolas Lombaerts')
+Added Player:Nicolas Lombaerts - 18043
+Mapped:18043 with 1496
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18044, 'Anthony Vanden Borre')
+Added Player:Anthony Vanden Borre - 18044
+Mapped:18044 with 1496
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18045, 'Laurent Ciman')
+Added Player:Laurent Ciman - 18045
+Mapped:18045 with 1496
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18046, 'Axel Witsel')
+Added Player:Axel Witsel - 18046
+Mapped:18046 with 1496
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18047, 'Kevin De Bruyne')
+Added Player:Kevin De Bruyne - 18047
+Mapped:18047 with 1496
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18048, 'Marouane Fellaini')
+Added Player:Marouane Fellaini - 18048
+Mapped:18048 with 1496
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18049, 'Eden Hazard')
+Added Player:Eden Hazard - 18049
+Mapped:18049 with 1496
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18050, 'Kevin Mirallas')
+Added Player:Kevin Mirallas - 18050
+Mapped:18050 with 1496
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18051, 'Steven Defour')
+Added Player:Steven Defour - 18051
+Mapped:18051 with 1496
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18052, 'Mousa Dembélé')
+Added Player:Mousa Dembélé - 18052
+Mapped:18052 with 1496
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18053, 'Adnan Januzaj')
+Added Player:Adnan Januzaj - 18053
+Mapped:18053 with 1496
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18054, 'Nacer Chadli')
+Added Player:Nacer Chadli - 18054
+Mapped:18054 with 1496
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18055, 'Romelu Lukaku')
+Added Player:Romelu Lukaku - 18055
+Mapped:18055 with 1496
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18056, 'Dries Mertens')
+Added Player:Dries Mertens - 18056
+Mapped:18056 with 1496
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18057, 'Divock Origi')
+Added Player:Divock Origi - 18057
+Mapped:18057 with 1496
+select * from TEAM t where t.NAME = 'brazil' AND t.YEAR = 2014
+1497  
+brazil2014
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18058, 'Jefferson')
+Added Player:Jefferson - 18058
+Mapped:18058 with 1497
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18059, 'Júlio César')
+Added Player:Júlio César - 18059
+Mapped:18059 with 1497
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18060, 'Victor')
+Added Player:Victor - 18060
+Mapped:18060 with 1497
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18061, 'Dani Alves')
+Added Player:Dani Alves - 18061
+Mapped:18061 with 1497
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18062, 'Thiago Silva')
+Added Player:Thiago Silva - 18062
+Mapped:18062 with 1497
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18063, 'David Luiz')
+Added Player:David Luiz - 18063
+Mapped:18063 with 1497
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18064, 'Marcelo')
+Added Player:Marcelo - 18064
+Mapped:18064 with 1497
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18065, 'Dante')
+Added Player:Dante - 18065
+Mapped:18065 with 1497
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18066, 'Maxwell')
+Added Player:Maxwell - 18066
+Mapped:18066 with 1497
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18067, 'Henrique')
+Added Player:Henrique - 18067
+Mapped:18067 with 1497
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18068, 'Maicon')
+Added Player:Maicon - 18068
+Mapped:18068 with 1497
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18069, 'Fernandinho')
+Added Player:Fernandinho - 18069
+Mapped:18069 with 1497
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18070, 'Paulinho')
+Added Player:Paulinho - 18070
+Mapped:18070 with 1497
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18071, 'Oscar')
+Added Player:Oscar - 18071
+Mapped:18071 with 1497
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18072, 'Ramires')
+Added Player:Ramires - 18072
+Mapped:18072 with 1497
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18073, 'Luiz Gustavo')
+Added Player:Luiz Gustavo - 18073
+Mapped:18073 with 1497
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18074, 'Hernanes')
+Added Player:Hernanes - 18074
+Mapped:18074 with 1497
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18075, 'Willian')
+Added Player:Willian - 18075
+Mapped:18075 with 1497
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18076, 'Hulk')
+Added Player:Hulk - 18076
+Mapped:18076 with 1497
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18077, 'Fred')
+Added Player:Fred - 18077
+Mapped:18077 with 1497
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18078, 'Neymar')
+Added Player:Neymar - 18078
+Mapped:18078 with 1497
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18079, 'Bernard')
+Added Player:Bernard - 18079
+Mapped:18079 with 1497
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18080, 'Jô')
+Added Player:Jô - 18080
+Mapped:18080 with 1497
+select * from TEAM t where t.NAME = 'switzerland' AND t.YEAR = 2014
+1498  
+switzerland2014
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18081, 'Diego Benaglio')
+Added Player:Diego Benaglio - 18081
+Mapped:18081 with 1498
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18082, 'Yann Sommer')
+Added Player:Yann Sommer - 18082
+Mapped:18082 with 1498
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18083, 'Roman Bürki')
+Added Player:Roman Bürki - 18083
+Mapped:18083 with 1498
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18084, 'Stephan Lichtsteiner')
+Added Player:Stephan Lichtsteiner - 18084
+Mapped:18084 with 1498
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18085, 'Reto Ziegler')
+Added Player:Reto Ziegler - 18085
+Mapped:18085 with 1498
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18086, 'Philippe Senderos')
+Added Player:Philippe Senderos - 18086
+Mapped:18086 with 1498
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18087, 'Steve von Bergen')
+Added Player:Steve von Bergen - 18087
+Mapped:18087 with 1498
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18088, 'Michael Lang')
+Added Player:Michael Lang - 18088
+Mapped:18088 with 1498
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18089, 'Ricardo Rodríguez')
+Added Player:Ricardo Rodríguez - 18089
+Mapped:18089 with 1498
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18090, 'Johan Djourou')
+Added Player:Johan Djourou - 18090
+Mapped:18090 with 1498
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18091, 'Fabian Schär')
+Added Player:Fabian Schär - 18091
+Mapped:18091 with 1498
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18092, 'Tranquillo Barnetta')
+Added Player:Tranquillo Barnetta - 18092
+Mapped:18092 with 1498
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18093, 'Gökhan Inler')
+Added Player:Gökhan Inler - 18093
+Mapped:18093 with 1498
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18094, 'Granit Xhaka')
+Added Player:Granit Xhaka - 18094
+Mapped:18094 with 1498
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18095, 'Valon Behrami')
+Added Player:Valon Behrami - 18095
+Mapped:18095 with 1498
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18096, 'Valentin Stocker')
+Added Player:Valentin Stocker - 18096
+Mapped:18096 with 1498
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18097, 'Blerim Džemaili')
+Added Player:Blerim Džemaili - 18097
+Mapped:18097 with 1498
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18098, 'Gelson Fernandes')
+Added Player:Gelson Fernandes - 18098
+Mapped:18098 with 1498
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18099, 'Xherdan Shaqiri')
+Added Player:Xherdan Shaqiri - 18099
+Mapped:18099 with 1498
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18100, 'Haris Seferović')
+Added Player:Haris Seferović - 18100
+Mapped:18100 with 1498
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18101, 'Mario Gavranović')
+Added Player:Mario Gavranović - 18101
+Mapped:18101 with 1498
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18102, 'Admir Mehmedi')
+Added Player:Admir Mehmedi - 18102
+Mapped:18102 with 1498
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18103, 'Josip Drmić')
+Added Player:Josip Drmić - 18103
+Mapped:18103 with 1498
+select * from TEAM t where t.NAME = 'cote-d-ivoire' AND t.YEAR = 2014
+1499  
+cote-d-ivoire2014
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18104, 'Boubacar Barry')
+Added Player:Boubacar Barry - 18104
+Mapped:18104 with 1499
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18105, 'Sylvain Gbohouo')
+Added Player:Sylvain Gbohouo - 18105
+Mapped:18105 with 1499
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18106, 'Sayouba Mandé')
+Added Player:Sayouba Mandé - 18106
+Mapped:18106 with 1499
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18107, 'Ousmane Viera')
+Added Player:Ousmane Viera - 18107
+Mapped:18107 with 1499
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18108, 'Arthur Boka')
+Added Player:Arthur Boka - 18108
+Mapped:18108 with 1499
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18109, 'Kolo Touré')
+Added Player:Kolo Touré - 18109
+Mapped:18109 with 1499
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18110, 'Didier Zokora')
+Added Player:Didier Zokora - 18110
+Mapped:18110 with 1499
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18111, 'Jean-Daniel Akpa-Akpro')
+java.sql.SQLException: ORA-12899: value too large for column "DBCLASS166"."PLAYER"."NAME" (actual: 22, maximum: 20)
+
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:447)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:396)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:951)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:513)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:227)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:531)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:195)
+	at oracle.jdbc.driver.T4CStatement.executeForRows(T4CStatement.java:1036)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1336)
+	at oracle.jdbc.driver.OracleStatement.executeUpdateInternal(OracleStatement.java:1845)
+	at oracle.jdbc.driver.OracleStatement.executeUpdate(OracleStatement.java:1810)
+	at oracle.jdbc.driver.OracleStatementWrapper.executeUpdate(OracleStatementWrapper.java:294)
+	at PopulateTables.addPlayers(PopulateTables.java:42)
+	at GatherData.getPlayers(GatherData.java:113)
+	at GatherData.main(GatherData.java:139)
+select * from TEAM t where t.NAME = 'chile' AND t.YEAR = 2014
+1500  
+chile2014
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18111, 'Claudio Bravo')
+Added Player:Claudio Bravo - 18111
+Mapped:18111 with 1500
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18112, 'Cristopher Toselli')
+Added Player:Cristopher Toselli - 18112
+Mapped:18112 with 1500
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18113, 'Johnny Herrera')
+Added Player:Johnny Herrera - 18113
+Mapped:18113 with 1500
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18114, 'Eugenio Mena')
+Added Player:Eugenio Mena - 18114
+Mapped:18114 with 1500
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18115, 'Miiko Albornoz')
+Added Player:Miiko Albornoz - 18115
+Mapped:18115 with 1500
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18116, 'José Rojas')
+Added Player:José Rojas - 18116
+Mapped:18116 with 1500
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18117, 'Gary Medel')
+Added Player:Gary Medel - 18117
+Mapped:18117 with 1500
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18118, 'Gonzalo Jara')
+Added Player:Gonzalo Jara - 18118
+Mapped:18118 with 1500
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18119, 'Mauricio Isla')
+Added Player:Mauricio Isla - 18119
+Mapped:18119 with 1500
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18120, 'Francisco Silva')
+Added Player:Francisco Silva - 18120
+Mapped:18120 with 1500
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18121, 'Carlos Carmona')
+Added Player:Carlos Carmona - 18121
+Mapped:18121 with 1500
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18122, 'Arturo Vidal')
+Added Player:Arturo Vidal - 18122
+Mapped:18122 with 1500
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18123, 'Jorge Valdívia')
+Added Player:Jorge Valdívia - 18123
+Mapped:18123 with 1500
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18124, 'Fabián Orellana')
+Added Player:Fabián Orellana - 18124
+Mapped:18124 with 1500
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18125, 'Jean Beausejour')
+Added Player:Jean Beausejour - 18125
+Mapped:18125 with 1500
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18126, 'Felipe Gutiérrez')
+Added Player:Felipe Gutiérrez - 18126
+Mapped:18126 with 1500
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18127, 'José Pedro Fuenzalida')
+java.sql.SQLException: ORA-12899: value too large for column "DBCLASS166"."PLAYER"."NAME" (actual: 21, maximum: 20)
+
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:447)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:396)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:951)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:513)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:227)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:531)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:195)
+	at oracle.jdbc.driver.T4CStatement.executeForRows(T4CStatement.java:1036)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1336)
+	at oracle.jdbc.driver.OracleStatement.executeUpdateInternal(OracleStatement.java:1845)
+	at oracle.jdbc.driver.OracleStatement.executeUpdate(OracleStatement.java:1810)
+	at oracle.jdbc.driver.OracleStatementWrapper.executeUpdate(OracleStatementWrapper.java:294)
+	at PopulateTables.addPlayers(PopulateTables.java:42)
+	at GatherData.getPlayers(GatherData.java:113)
+	at GatherData.main(GatherData.java:139)
+select * from TEAM t where t.NAME = 'cameroon' AND t.YEAR = 2014
+1501  
+cameroon2014
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18127, 'Loïc Feudjou')
+Added Player:Loïc Feudjou - 18127
+Mapped:18127 with 1501
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18128, 'Charles Itandje')
+Added Player:Charles Itandje - 18128
+Mapped:18128 with 1501
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18129, 'Sammy N'Djock')
+java.sql.SQLSyntaxErrorException: ORA-00917: missing comma
+
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:447)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:396)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:951)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:513)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:227)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:531)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:195)
+	at oracle.jdbc.driver.T4CStatement.executeForRows(T4CStatement.java:1036)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1336)
+	at oracle.jdbc.driver.OracleStatement.executeUpdateInternal(OracleStatement.java:1845)
+	at oracle.jdbc.driver.OracleStatement.executeUpdate(OracleStatement.java:1810)
+	at oracle.jdbc.driver.OracleStatementWrapper.executeUpdate(OracleStatementWrapper.java:294)
+	at PopulateTables.addPlayers(PopulateTables.java:42)
+	at GatherData.getPlayers(GatherData.java:113)
+	at GatherData.main(GatherData.java:139)
+select * from TEAM t where t.NAME = 'colombia' AND t.YEAR = 2014
+1502  
+colombia2014
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18129, 'David Ospina')
+Added Player:David Ospina - 18129
+Mapped:18129 with 1502
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18130, 'Camilo Vargas')
+Added Player:Camilo Vargas - 18130
+Mapped:18130 with 1502
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18131, 'Faryd Mondragón')
+Added Player:Faryd Mondragón - 18131
+Mapped:18131 with 1502
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18132, 'Cristián Zapata')
+Added Player:Cristián Zapata - 18132
+Mapped:18132 with 1502
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18133, 'Mario Yepes')
+Added Player:Mario Yepes - 18133
+Mapped:18133 with 1502
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18134, 'Santiago Arias')
+Added Player:Santiago Arias - 18134
+Mapped:18134 with 1502
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18135, 'Pablo Armero')
+Added Player:Pablo Armero - 18135
+Mapped:18135 with 1502
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18136, 'Éder Álvarez Balanta')
+Added Player:Éder Álvarez Balanta - 18136
+Mapped:18136 with 1502
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18137, 'Juan Camilo Zúñiga')
+Added Player:Juan Camilo Zúñiga - 18137
+Mapped:18137 with 1502
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18138, 'Carlos Valdés')
+Added Player:Carlos Valdés - 18138
+Mapped:18138 with 1502
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18139, 'Carlos Carbonero')
+Added Player:Carlos Carbonero - 18139
+Mapped:18139 with 1502
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18140, 'Carlos Sánchez')
+Added Player:Carlos Sánchez - 18140
+Mapped:18140 with 1502
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18141, 'Abel Aguilar')
+Added Player:Abel Aguilar - 18141
+Mapped:18141 with 1502
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18142, 'James Rodríguez')
+Added Player:James Rodríguez - 18142
+Mapped:18142 with 1502
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18143, 'Juan Guillermo Cuadrado')
+java.sql.SQLException: ORA-12899: value too large for column "DBCLASS166"."PLAYER"."NAME" (actual: 23, maximum: 20)
+
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:447)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:396)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:951)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:513)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:227)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:531)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:195)
+	at oracle.jdbc.driver.T4CStatement.executeForRows(T4CStatement.java:1036)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1336)
+	at oracle.jdbc.driver.OracleStatement.executeUpdateInternal(OracleStatement.java:1845)
+	at oracle.jdbc.driver.OracleStatement.executeUpdate(OracleStatement.java:1810)
+	at oracle.jdbc.driver.OracleStatementWrapper.executeUpdate(OracleStatementWrapper.java:294)
+	at PopulateTables.addPlayers(PopulateTables.java:42)
+	at GatherData.getPlayers(GatherData.java:113)
+	at GatherData.main(GatherData.java:139)
+select * from TEAM t where t.NAME = 'costa-rica' AND t.YEAR = 2014
+1503  
+costa-rica2014
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18143, 'Keylor Navas')
+Added Player:Keylor Navas - 18143
+Mapped:18143 with 1503
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18144, 'Patrick Pemberton')
+Added Player:Patrick Pemberton - 18144
+Mapped:18144 with 1503
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18145, 'Daniel Cambronero')
+Added Player:Daniel Cambronero - 18145
+Mapped:18145 with 1503
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18146, 'Johnny Acosta')
+Added Player:Johnny Acosta - 18146
+Mapped:18146 with 1503
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18147, 'Giancarlo González')
+Added Player:Giancarlo González - 18147
+Mapped:18147 with 1503
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18148, 'Michael Umaña')
+Added Player:Michael Umaña - 18148
+Mapped:18148 with 1503
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18149, 'Óscar Duarte')
+Added Player:Óscar Duarte - 18149
+Mapped:18149 with 1503
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18150, 'Heiner Mora')
+Added Player:Heiner Mora - 18150
+Mapped:18150 with 1503
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18151, 'Waylon Francis')
+Added Player:Waylon Francis - 18151
+Mapped:18151 with 1503
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18152, 'Júnior Díaz')
+Added Player:Júnior Díaz - 18152
+Mapped:18152 with 1503
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18153, 'Cristian Gamboa')
+Added Player:Cristian Gamboa - 18153
+Mapped:18153 with 1503
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18154, 'Roy Miller')
+Added Player:Roy Miller - 18154
+Mapped:18154 with 1503
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18155, 'Celso Borges')
+Added Player:Celso Borges - 18155
+Mapped:18155 with 1503
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18156, 'Christian Bolaños')
+Added Player:Christian Bolaños - 18156
+Mapped:18156 with 1503
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18157, 'Michael Barrantes')
+Added Player:Michael Barrantes - 18157
+Mapped:18157 with 1503
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18158, 'Esteban Granados')
+Added Player:Esteban Granados - 18158
+Mapped:18158 with 1503
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18159, 'Yeltsin Tejeda')
+Added Player:Yeltsin Tejeda - 18159
+Mapped:18159 with 1503
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18160, 'Diego Calvo')
+Added Player:Diego Calvo - 18160
+Mapped:18160 with 1503
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18161, 'José Miguel Cubero')
+Added Player:José Miguel Cubero - 18161
+Mapped:18161 with 1503
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18162, 'Joel Campbell')
+Added Player:Joel Campbell - 18162
+Mapped:18162 with 1503
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18163, 'Bryan Ruiz')
+Added Player:Bryan Ruiz - 18163
+Mapped:18163 with 1503
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18164, 'Randall Brenes')
+Added Player:Randall Brenes - 18164
+Mapped:18164 with 1503
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18165, 'Marco Ureña')
+Added Player:Marco Ureña - 18165
+Mapped:18165 with 1503
+select * from TEAM t where t.NAME = 'deutschland' AND t.YEAR = 2014
+1504  
+deutschland2014
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18166, 'Manuel Neuer')
+Added Player:Manuel Neuer - 18166
+Mapped:18166 with 1504
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18167, 'Ron-Robert Zieler')
+Added Player:Ron-Robert Zieler - 18167
+Mapped:18167 with 1504
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18168, 'Roman Weidenfeller')
+Added Player:Roman Weidenfeller - 18168
+Mapped:18168 with 1504
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18169, 'Kevin Großkreutz')
+Added Player:Kevin Großkreutz - 18169
+Mapped:18169 with 1504
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18170, 'Benedikt Höwedes')
+Added Player:Benedikt Höwedes - 18170
+Mapped:18170 with 1504
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18171, 'Mats Hummels')
+Added Player:Mats Hummels - 18171
+Mapped:18171 with 1504
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18172, 'Erik Durm')
+Added Player:Erik Durm - 18172
+Mapped:18172 with 1504
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18173, 'Philipp Lahm')
+Added Player:Philipp Lahm - 18173
+Mapped:18173 with 1504
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18174, 'Per Mertesacker')
+Added Player:Per Mertesacker - 18174
+Mapped:18174 with 1504
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18175, 'Jérôme Boateng')
+Added Player:Jérôme Boateng - 18175
+Mapped:18175 with 1504
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18176, 'Matthias Ginter')
+Added Player:Matthias Ginter - 18176
+Mapped:18176 with 1504
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18177, 'Sami Khedira')
+Added Player:Sami Khedira - 18177
+Mapped:18177 with 1504
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18178, 'Bastian Schweinsteiger')
+java.sql.SQLException: ORA-12899: value too large for column "DBCLASS166"."PLAYER"."NAME" (actual: 22, maximum: 20)
+
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:447)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:396)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:951)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:513)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:227)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:531)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:195)
+	at oracle.jdbc.driver.T4CStatement.executeForRows(T4CStatement.java:1036)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1336)
+	at oracle.jdbc.driver.OracleStatement.executeUpdateInternal(OracleStatement.java:1845)
+	at oracle.jdbc.driver.OracleStatement.executeUpdate(OracleStatement.java:1810)
+	at oracle.jdbc.driver.OracleStatementWrapper.executeUpdate(OracleStatementWrapper.java:294)
+	at PopulateTables.addPlayers(PopulateTables.java:42)
+	at GatherData.getPlayers(GatherData.java:113)
+	at GatherData.main(GatherData.java:139)
+select * from TEAM t where t.NAME = 'algeria' AND t.YEAR = 2014
+1505  
+algeria2014
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18178, 'Cédric Si Mohamed')
+Added Player:Cédric Si Mohamed - 18178
+Mapped:18178 with 1505
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18179, 'Mohamed Zemmamouche')
+Added Player:Mohamed Zemmamouche - 18179
+Mapped:18179 with 1505
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18180, 'Raïs M'Bolhi')
+java.sql.SQLSyntaxErrorException: ORA-00917: missing comma
+
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:447)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:396)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:951)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:513)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:227)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:531)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:195)
+	at oracle.jdbc.driver.T4CStatement.executeForRows(T4CStatement.java:1036)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1336)
+	at oracle.jdbc.driver.OracleStatement.executeUpdateInternal(OracleStatement.java:1845)
+	at oracle.jdbc.driver.OracleStatement.executeUpdate(OracleStatement.java:1810)
+	at oracle.jdbc.driver.OracleStatementWrapper.executeUpdate(OracleStatementWrapper.java:294)
+	at PopulateTables.addPlayers(PopulateTables.java:42)
+	at GatherData.getPlayers(GatherData.java:113)
+	at GatherData.main(GatherData.java:139)
+select * from TEAM t where t.NAME = 'ecuador' AND t.YEAR = 2014
+1506  
+ecuador2014
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18180, 'Máximo Banguera')
+Added Player:Máximo Banguera - 18180
+Mapped:18180 with 1506
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18181, 'Adrián Bone')
+Added Player:Adrián Bone - 18181
+Mapped:18181 with 1506
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18182, 'Alexander Domínguez')
+Added Player:Alexander Domínguez - 18182
+Mapped:18182 with 1506
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18183, 'Jorge Guagua')
+Added Player:Jorge Guagua - 18183
+Mapped:18183 with 1506
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18184, 'Frickson Erazo')
+Added Player:Frickson Erazo - 18184
+Mapped:18184 with 1506
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18185, 'Juan Carlos Paredes')
+Added Player:Juan Carlos Paredes - 18185
+Mapped:18185 with 1506
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18186, 'Walter Ayoví')
+Added Player:Walter Ayoví - 18186
+Mapped:18186 with 1506
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18187, 'Óscar Bagüí')
+Added Player:Óscar Bagüí - 18187
+Mapped:18187 with 1506
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18188, 'Gabriel Achilier')
+Added Player:Gabriel Achilier - 18188
+Mapped:18188 with 1506
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18189, 'Renato Ibarra')
+Added Player:Renato Ibarra - 18189
+Mapped:18189 with 1506
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18190, 'Christian Noboa')
+Added Player:Christian Noboa - 18190
+Mapped:18190 with 1506
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18191, 'Jefferson Montero')
+Added Player:Jefferson Montero - 18191
+Mapped:18191 with 1506
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18192, 'Édison Méndez')
+Added Player:Édison Méndez - 18192
+Mapped:18192 with 1506
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18193, 'Joao Rojas')
+Added Player:Joao Rojas - 18193
+Mapped:18193 with 1506
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18194, 'Segundo Castillo')
+Added Player:Segundo Castillo - 18194
+Mapped:18194 with 1506
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18195, 'Michael Arroyo')
+Added Player:Michael Arroyo - 18195
+Mapped:18195 with 1506
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18196, 'Antonio Valencia')
+Added Player:Antonio Valencia - 18196
+Mapped:18196 with 1506
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18197, 'Luis Saritama')
+Added Player:Luis Saritama - 18197
+Mapped:18197 with 1506
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18198, 'Fidel Martínez')
+Added Player:Fidel Martínez - 18198
+Mapped:18198 with 1506
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18199, 'Carlos Gruezo')
+Added Player:Carlos Gruezo - 18199
+Mapped:18199 with 1506
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18200, 'Felipe Caicedo')
+Added Player:Felipe Caicedo - 18200
+Mapped:18200 with 1506
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18201, 'Enner Valencia')
+Added Player:Enner Valencia - 18201
+Mapped:18201 with 1506
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18202, 'Jaime Ayoví')
+Added Player:Jaime Ayoví - 18202
+Mapped:18202 with 1506
+select * from TEAM t where t.NAME = 'england' AND t.YEAR = 2014
+1507  
+england2014
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18203, 'Joe Hart')
+Added Player:Joe Hart - 18203
+Mapped:18203 with 1507
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18204, 'Ben Foster')
+Added Player:Ben Foster - 18204
+Mapped:18204 with 1507
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18205, 'Fraser Forster')
+Added Player:Fraser Forster - 18205
+Mapped:18205 with 1507
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18206, 'Glen Johnson')
+Added Player:Glen Johnson - 18206
+Mapped:18206 with 1507
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18207, 'Leighton Baines')
+Added Player:Leighton Baines - 18207
+Mapped:18207 with 1507
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18208, 'Gary Cahill')
+Added Player:Gary Cahill - 18208
+Mapped:18208 with 1507
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18209, 'Phil Jagielka')
+Added Player:Phil Jagielka - 18209
+Mapped:18209 with 1507
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18210, 'Chris Smalling')
+Added Player:Chris Smalling - 18210
+Mapped:18210 with 1507
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18211, 'Phil Jones')
+Added Player:Phil Jones - 18211
+Mapped:18211 with 1507
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18212, 'Luke Shaw')
+Added Player:Luke Shaw - 18212
+Mapped:18212 with 1507
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18213, 'Steven Gerrard')
+Added Player:Steven Gerrard - 18213
+Mapped:18213 with 1507
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18214, 'Jack Wilshere')
+Added Player:Jack Wilshere - 18214
+Mapped:18214 with 1507
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18215, 'Frank Lampard')
+Added Player:Frank Lampard - 18215
+Mapped:18215 with 1507
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18216, 'Jordan Henderson')
+Added Player:Jordan Henderson - 18216
+Mapped:18216 with 1507
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18217, 'Alex Oxlade-Chamberlain')
+java.sql.SQLException: ORA-12899: value too large for column "DBCLASS166"."PLAYER"."NAME" (actual: 23, maximum: 20)
+
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:447)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:396)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:951)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:513)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:227)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:531)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:195)
+	at oracle.jdbc.driver.T4CStatement.executeForRows(T4CStatement.java:1036)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1336)
+	at oracle.jdbc.driver.OracleStatement.executeUpdateInternal(OracleStatement.java:1845)
+	at oracle.jdbc.driver.OracleStatement.executeUpdate(OracleStatement.java:1810)
+	at oracle.jdbc.driver.OracleStatementWrapper.executeUpdate(OracleStatementWrapper.java:294)
+	at PopulateTables.addPlayers(PopulateTables.java:42)
+	at GatherData.getPlayers(GatherData.java:113)
+	at GatherData.main(GatherData.java:139)
+select * from TEAM t where t.NAME = 'espana' AND t.YEAR = 2014
+1508  
+espana2014
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18217, 'Iker Casillas')
+Added Player:Iker Casillas - 18217
+Mapped:18217 with 1508
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18218, 'David de Gea')
+Added Player:David de Gea - 18218
+Mapped:18218 with 1508
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18219, 'Pepe Reina')
+Added Player:Pepe Reina - 18219
+Mapped:18219 with 1508
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18220, 'Raúl Albiol')
+Added Player:Raúl Albiol - 18220
+Mapped:18220 with 1508
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18221, 'Gerard Piqué')
+Added Player:Gerard Piqué - 18221
+Mapped:18221 with 1508
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18222, 'Juanfran')
+Added Player:Juanfran - 18222
+Mapped:18222 with 1508
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18223, 'Sergio Ramos')
+Added Player:Sergio Ramos - 18223
+Mapped:18223 with 1508
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18224, 'Jordi Alba')
+Added Player:Jordi Alba - 18224
+Mapped:18224 with 1508
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18225, 'César Azpilicueta')
+Added Player:César Azpilicueta - 18225
+Mapped:18225 with 1508
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18226, 'Javi Martínez')
+Added Player:Javi Martínez - 18226
+Mapped:18226 with 1508
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18227, 'Andrés Iniesta')
+Added Player:Andrés Iniesta - 18227
+Mapped:18227 with 1508
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18228, 'Xavi')
+Added Player:Xavi - 18228
+Mapped:18228 with 1508
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18229, 'Cesc Fàbregas')
+Added Player:Cesc Fàbregas - 18229
+Mapped:18229 with 1508
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18230, 'Juan Mata')
+Added Player:Juan Mata - 18230
+Mapped:18230 with 1508
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18231, 'Xabi Alonso')
+Added Player:Xabi Alonso - 18231
+Mapped:18231 with 1508
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18232, 'Sergio Busquets')
+Added Player:Sergio Busquets - 18232
+Mapped:18232 with 1508
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18233, 'Koke')
+Added Player:Koke - 18233
+Mapped:18233 with 1508
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18234, 'Santi Cazorla')
+Added Player:Santi Cazorla - 18234
+Mapped:18234 with 1508
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18235, 'David Silva')
+Added Player:David Silva - 18235
+Mapped:18235 with 1508
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18236, 'David Villa')
+Added Player:David Villa - 18236
+Mapped:18236 with 1508
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18237, 'Fernando Torres')
+Added Player:Fernando Torres - 18237
+Mapped:18237 with 1508
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18238, 'Pedro')
+Added Player:Pedro - 18238
+Mapped:18238 with 1508
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18239, 'Diego Costa')
+Added Player:Diego Costa - 18239
+Mapped:18239 with 1508
+select * from TEAM t where t.NAME = 'france' AND t.YEAR = 2014
+1509  
+france2014
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18240, 'Hugo Lloris')
+Added Player:Hugo Lloris - 18240
+Mapped:18240 with 1509
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18241, 'Stéphane Ruffier')
+Added Player:Stéphane Ruffier - 18241
+Mapped:18241 with 1509
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18242, 'Mickaël Landreau')
+Added Player:Mickaël Landreau - 18242
+Mapped:18242 with 1509
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18243, 'Mathieu Debuchy')
+Added Player:Mathieu Debuchy - 18243
+Mapped:18243 with 1509
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18244, 'Patrice Evra')
+Added Player:Patrice Evra - 18244
+Mapped:18244 with 1509
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18245, 'Raphaël Varane')
+Added Player:Raphaël Varane - 18245
+Mapped:18245 with 1509
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18246, 'Mamadou Sakho')
+Added Player:Mamadou Sakho - 18246
+Mapped:18246 with 1509
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18247, 'Eliaquim Mangala')
+Added Player:Eliaquim Mangala - 18247
+Mapped:18247 with 1509
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18248, 'Bacary Sagna')
+Added Player:Bacary Sagna - 18248
+Mapped:18248 with 1509
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18249, 'Lucas Digne')
+Added Player:Lucas Digne - 18249
+Mapped:18249 with 1509
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18250, 'Laurent Koscielny')
+Added Player:Laurent Koscielny - 18250
+Mapped:18250 with 1509
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18251, 'Yohan Cabaye')
+Added Player:Yohan Cabaye - 18251
+Mapped:18251 with 1509
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18252, 'Mathieu Valbuena')
+Added Player:Mathieu Valbuena - 18252
+Mapped:18252 with 1509
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18253, 'Antoine Griezmann')
+Added Player:Antoine Griezmann - 18253
+Mapped:18253 with 1509
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18254, 'Rio Mavuba')
+Added Player:Rio Mavuba - 18254
+Mapped:18254 with 1509
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18255, 'Blaise Matuidi')
+Added Player:Blaise Matuidi - 18255
+Mapped:18255 with 1509
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18256, 'Moussa Sissoko')
+Added Player:Moussa Sissoko - 18256
+Mapped:18256 with 1509
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18257, 'Paul Pogba')
+Added Player:Paul Pogba - 18257
+Mapped:18257 with 1509
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18258, 'Morgan Schneiderlin')
+Added Player:Morgan Schneiderlin - 18258
+Mapped:18258 with 1509
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18259, 'Rémy Cabella')
+Added Player:Rémy Cabella - 18259
+Mapped:18259 with 1509
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18260, 'Olivier Giroud')
+Added Player:Olivier Giroud - 18260
+Mapped:18260 with 1509
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18261, 'Karim Benzema')
+Added Player:Karim Benzema - 18261
+Mapped:18261 with 1509
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18262, 'Loïc Rémy')
+Added Player:Loïc Rémy - 18262
+Mapped:18262 with 1509
+select * from TEAM t where t.NAME = 'ghana' AND t.YEAR = 2014
+1510  
+ghana2014
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18263, 'Steven Adams')
+Added Player:Steven Adams - 18263
+Mapped:18263 with 1510
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18264, 'Adam Kwarasey')
+Added Player:Adam Kwarasey - 18264
+Mapped:18264 with 1510
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18265, 'Fatau Dauda')
+Added Player:Fatau Dauda - 18265
+Mapped:18265 with 1510
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18266, 'Samuel Inkoom')
+Added Player:Samuel Inkoom - 18266
+Mapped:18266 with 1510
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18267, 'Daniel Opare')
+Added Player:Daniel Opare - 18267
+Mapped:18267 with 1510
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18268, 'Rashid Sumaila')
+Added Player:Rashid Sumaila - 18268
+Mapped:18268 with 1510
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18269, 'Jonathan Mensah')
+Added Player:Jonathan Mensah - 18269
+Mapped:18269 with 1510
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18270, 'John Boye')
+Added Player:John Boye - 18270
+Mapped:18270 with 1510
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18271, 'Harrison Afful')
+Added Player:Harrison Afful - 18271
+Mapped:18271 with 1510
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18272, 'Michael Essien')
+Added Player:Michael Essien - 18272
+Mapped:18272 with 1510
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18273, 'Afriyie Acquah')
+Added Player:Afriyie Acquah - 18273
+Mapped:18273 with 1510
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18274, 'Christian Atsu')
+Added Player:Christian Atsu - 18274
+Mapped:18274 with 1510
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18275, 'Emmanuel Agyemang-Badu')
+java.sql.SQLException: ORA-12899: value too large for column "DBCLASS166"."PLAYER"."NAME" (actual: 22, maximum: 20)
+
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:447)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:396)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:951)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:513)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:227)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:531)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:195)
+	at oracle.jdbc.driver.T4CStatement.executeForRows(T4CStatement.java:1036)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1336)
+	at oracle.jdbc.driver.OracleStatement.executeUpdateInternal(OracleStatement.java:1845)
+	at oracle.jdbc.driver.OracleStatement.executeUpdate(OracleStatement.java:1810)
+	at oracle.jdbc.driver.OracleStatementWrapper.executeUpdate(OracleStatementWrapper.java:294)
+	at PopulateTables.addPlayers(PopulateTables.java:42)
+	at GatherData.getPlayers(GatherData.java:113)
+	at GatherData.main(GatherData.java:139)
+select * from TEAM t where t.NAME = 'greece' AND t.YEAR = 2014
+1511  
+greece2014
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18275, 'Orestis Karnezis')
+Added Player:Orestis Karnezis - 18275
+Mapped:18275 with 1511
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18276, 'Panagiotis Glykos')
+Added Player:Panagiotis Glykos - 18276
+Mapped:18276 with 1511
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18277, 'Stefanos Kapino')
+Added Player:Stefanos Kapino - 18277
+Mapped:18277 with 1511
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18278, 'Giannis Maniatis')
+Added Player:Giannis Maniatis - 18278
+Mapped:18278 with 1511
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18279, 'Giorgos Tzavellas')
+Added Player:Giorgos Tzavellas - 18279
+Mapped:18279 with 1511
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18280, 'Kostas Manolas')
+Added Player:Kostas Manolas - 18280
+Mapped:18280 with 1511
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18281, 'Vangelis Moras')
+Added Player:Vangelis Moras - 18281
+Mapped:18281 with 1511
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18282, 'Loukas Vyntra')
+Added Player:Loukas Vyntra - 18282
+Mapped:18282 with 1511
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18283, 'Vasilis Torosidis')
+Added Player:Vasilis Torosidis - 18283
+Mapped:18283 with 1511
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18284, 'Sokratis Papastathopoulos')
+java.sql.SQLException: ORA-12899: value too large for column "DBCLASS166"."PLAYER"."NAME" (actual: 25, maximum: 20)
+
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:447)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:396)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:951)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:513)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:227)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:531)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:195)
+	at oracle.jdbc.driver.T4CStatement.executeForRows(T4CStatement.java:1036)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1336)
+	at oracle.jdbc.driver.OracleStatement.executeUpdateInternal(OracleStatement.java:1845)
+	at oracle.jdbc.driver.OracleStatement.executeUpdate(OracleStatement.java:1810)
+	at oracle.jdbc.driver.OracleStatementWrapper.executeUpdate(OracleStatementWrapper.java:294)
+	at PopulateTables.addPlayers(PopulateTables.java:42)
+	at GatherData.getPlayers(GatherData.java:113)
+	at GatherData.main(GatherData.java:139)
+select * from TEAM t where t.NAME = 'honduras' AND t.YEAR = 2014
+1512  
+honduras2014
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18284, 'Luis López')
+Added Player:Luis López - 18284
+Mapped:18284 with 1512
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18285, 'Noel Valladares')
+Added Player:Noel Valladares - 18285
+Mapped:18285 with 1512
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18286, 'Donis Escober')
+Added Player:Donis Escober - 18286
+Mapped:18286 with 1512
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18287, 'Osman Chávez')
+Added Player:Osman Chávez - 18287
+Mapped:18287 with 1512
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18288, 'Maynor Figueroa')
+Added Player:Maynor Figueroa - 18288
+Mapped:18288 with 1512
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18289, 'Juan Pablo Montes')
+Added Player:Juan Pablo Montes - 18289
+Mapped:18289 with 1512
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18290, 'Víctor Bernárdez')
+Added Player:Víctor Bernárdez - 18290
+Mapped:18290 with 1512
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18291, 'Juan Carlos García')
+Added Player:Juan Carlos García - 18291
+Mapped:18291 with 1512
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18292, 'Emilio Izaguirre')
+Added Player:Emilio Izaguirre - 18292
+Mapped:18292 with 1512
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18293, 'Brayan Beckeles')
+Added Player:Brayan Beckeles - 18293
+Mapped:18293 with 1512
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18294, 'Wilson Palacios')
+Added Player:Wilson Palacios - 18294
+Mapped:18294 with 1512
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18295, 'Mario Martínez')
+Added Player:Mario Martínez - 18295
+Mapped:18295 with 1512
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18296, 'Edder Delgado')
+Added Player:Edder Delgado - 18296
+Mapped:18296 with 1512
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18297, 'Óscar García')
+Added Player:Óscar García - 18297
+Mapped:18297 with 1512
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18298, 'Roger Espinoza')
+Added Player:Roger Espinoza - 18298
+Mapped:18298 with 1512
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18299, 'Marvin Chávez')
+Added Player:Marvin Chávez - 18299
+Mapped:18299 with 1512
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18300, 'Luis Garrido')
+Added Player:Luis Garrido - 18300
+Mapped:18300 with 1512
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18301, 'Jorge Claros')
+Added Player:Jorge Claros - 18301
+Mapped:18301 with 1512
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18302, 'Andy Najar')
+Added Player:Andy Najar - 18302
+Mapped:18302 with 1512
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18303, 'Jerry Palacios')
+Added Player:Jerry Palacios - 18303
+Mapped:18303 with 1512
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18304, 'Jerry Bengtson')
+Added Player:Jerry Bengtson - 18304
+Mapped:18304 with 1512
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18305, 'Carlo Costly')
+Added Player:Carlo Costly - 18305
+Mapped:18305 with 1512
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18306, 'Rony Martínez')
+Added Player:Rony Martínez - 18306
+Mapped:18306 with 1512
+select * from TEAM t where t.NAME = 'croatia' AND t.YEAR = 2014
+1513  
+croatia2014
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18307, 'Stipe Pletikosa')
+Added Player:Stipe Pletikosa - 18307
+Mapped:18307 with 1513
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18308, 'Oliver Zelenika')
+Added Player:Oliver Zelenika - 18308
+Mapped:18308 with 1513
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18309, 'Danijel Subašić')
+Added Player:Danijel Subašić - 18309
+Mapped:18309 with 1513
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18310, 'Šime Vrsaljko')
+Added Player:Šime Vrsaljko - 18310
+Mapped:18310 with 1513
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18311, 'Danijel Pranjić')
+Added Player:Danijel Pranjić - 18311
+Mapped:18311 with 1513
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18312, 'Vedran Ćorluka')
+Added Player:Vedran Ćorluka - 18312
+Mapped:18312 with 1513
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18313, 'Dejan Lovren')
+Added Player:Dejan Lovren - 18313
+Mapped:18313 with 1513
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18314, 'Darijo Srna')
+Added Player:Darijo Srna - 18314
+Mapped:18314 with 1513
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18315, 'Gordon Schildenfeld')
+Added Player:Gordon Schildenfeld - 18315
+Mapped:18315 with 1513
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18316, 'Domagoj Vida')
+Added Player:Domagoj Vida - 18316
+Mapped:18316 with 1513
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18317, 'Ivan Perišić')
+Added Player:Ivan Perišić - 18317
+Mapped:18317 with 1513
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18318, 'Ivan Rakitić')
+Added Player:Ivan Rakitić - 18318
+Mapped:18318 with 1513
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18319, 'Ognjen Vukojević')
+Added Player:Ognjen Vukojević - 18319
+Mapped:18319 with 1513
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18320, 'Luka Modrić')
+Added Player:Luka Modrić - 18320
+Mapped:18320 with 1513
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18321, 'Marcelo Brozović')
+Added Player:Marcelo Brozović - 18321
+Mapped:18321 with 1513
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18322, 'Ivan Močinić')
+Added Player:Ivan Močinić - 18322
+Mapped:18322 with 1513
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18323, 'Sammir')
+Added Player:Sammir - 18323
+Mapped:18323 with 1513
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18324, 'Mateo Kovačić')
+Added Player:Mateo Kovačić - 18324
+Mapped:18324 with 1513
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18325, 'Nikica Jelavić')
+Added Player:Nikica Jelavić - 18325
+Mapped:18325 with 1513
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18326, 'Ante Rebić')
+Added Player:Ante Rebić - 18326
+Mapped:18326 with 1513
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18327, 'Mario Mandžukić')
+Added Player:Mario Mandžukić - 18327
+Mapped:18327 with 1513
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18328, 'Ivica Olić')
+Added Player:Ivica Olić - 18328
+Mapped:18328 with 1513
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18329, 'Eduardo')
+Added Player:Eduardo - 18329
+Mapped:18329 with 1513
+select * from TEAM t where t.NAME = 'iran' AND t.YEAR = 2014
+1514  
+iran2014
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18330, 'Rahman Ahmadi')
+Added Player:Rahman Ahmadi - 18330
+Mapped:18330 with 1514
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18331, 'Alireza Haghighi')
+Added Player:Alireza Haghighi - 18331
+Mapped:18331 with 1514
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18332, 'Daniel Davari')
+Added Player:Daniel Davari - 18332
+Mapped:18332 with 1514
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18333, 'Jalal Hosseini')
+Added Player:Jalal Hosseini - 18333
+Mapped:18333 with 1514
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18334, 'Amir Hossein Sadeghi')
+Added Player:Amir Hossein Sadeghi - 18334
+Mapped:18334 with 1514
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18335, 'Hossein Mahini')
+Added Player:Hossein Mahini - 18335
+Mapped:18335 with 1514
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18336, 'Pejman Montazeri')
+Added Player:Pejman Montazeri - 18336
+Mapped:18336 with 1514
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18337, 'Ahmad Alenemeh')
+Added Player:Ahmad Alenemeh - 18337
+Mapped:18337 with 1514
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18338, 'Hashem Beikzadeh')
+Added Player:Hashem Beikzadeh - 18338
+Mapped:18338 with 1514
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18339, 'Steven Beitashour')
+Added Player:Steven Beitashour - 18339
+Mapped:18339 with 1514
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18340, 'Mehrdad Pouladi')
+Added Player:Mehrdad Pouladi - 18340
+Mapped:18340 with 1514
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18341, 'Khosro Heydari')
+Added Player:Khosro Heydari - 18341
+Mapped:18341 with 1514
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18342, 'Ehsan Hajsafi')
+Added Player:Ehsan Hajsafi - 18342
+Mapped:18342 with 1514
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18343, 'Javad Nekounam')
+Added Player:Javad Nekounam - 18343
+Mapped:18343 with 1514
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18344, 'Masoud Shojaei')
+Added Player:Masoud Shojaei - 18344
+Mapped:18344 with 1514
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18345, 'Reza Haghighi')
+Added Player:Reza Haghighi - 18345
+Mapped:18345 with 1514
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18346, 'Ghasem Haddadifar')
+Added Player:Ghasem Haddadifar - 18346
+Mapped:18346 with 1514
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18347, 'Andranik Teymourian')
+Added Player:Andranik Teymourian - 18347
+Mapped:18347 with 1514
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18348, 'Bakhtiar Rahmani')
+Added Player:Bakhtiar Rahmani - 18348
+Mapped:18348 with 1514
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18349, 'Ashkan Dejagah')
+Added Player:Ashkan Dejagah - 18349
+Mapped:18349 with 1514
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18350, 'Alireza Jahanbakhsh')
+Added Player:Alireza Jahanbakhsh - 18350
+Mapped:18350 with 1514
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18351, 'Karim Ansarifard')
+Added Player:Karim Ansarifard - 18351
+Mapped:18351 with 1514
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18352, 'Reza Ghoochannejhad')
+Added Player:Reza Ghoochannejhad - 18352
+Mapped:18352 with 1514
+select * from TEAM t where t.NAME = 'italy' AND t.YEAR = 2014
+1515  
+italy2014
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18353, 'Gianluigi Buffon')
+Added Player:Gianluigi Buffon - 18353
+Mapped:18353 with 1515
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18354, 'Salvatore Sirigu')
+Added Player:Salvatore Sirigu - 18354
+Mapped:18354 with 1515
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18355, 'Mattia Perin')
+Added Player:Mattia Perin - 18355
+Mapped:18355 with 1515
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18356, 'Mattia De Sciglio')
+Added Player:Mattia De Sciglio - 18356
+Mapped:18356 with 1515
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18357, 'Giorgio Chiellini')
+Added Player:Giorgio Chiellini - 18357
+Mapped:18357 with 1515
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18358, 'Matteo Darmian')
+Added Player:Matteo Darmian - 18358
+Mapped:18358 with 1515
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18359, 'Ignazio Abate')
+Added Player:Ignazio Abate - 18359
+Mapped:18359 with 1515
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18360, 'Andrea Barzagli')
+Added Player:Andrea Barzagli - 18360
+Mapped:18360 with 1515
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18361, 'Leonardo Bonucci')
+Added Player:Leonardo Bonucci - 18361
+Mapped:18361 with 1515
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18362, 'Gabriel Paletta')
+Added Player:Gabriel Paletta - 18362
+Mapped:18362 with 1515
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18363, 'Thiago Motta')
+Added Player:Thiago Motta - 18363
+Mapped:18363 with 1515
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18364, 'Antonio Candreva')
+Added Player:Antonio Candreva - 18364
+Mapped:18364 with 1515
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18365, 'Claudio Marchisio')
+Added Player:Claudio Marchisio - 18365
+Mapped:18365 with 1515
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18366, 'Alberto Aquilani')
+Added Player:Alberto Aquilani - 18366
+Mapped:18366 with 1515
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18367, 'Daniele De Rossi')
+Added Player:Daniele De Rossi - 18367
+Mapped:18367 with 1515
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18368, 'Marco Parolo')
+Added Player:Marco Parolo - 18368
+Mapped:18368 with 1515
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18369, 'Andrea Pirlo')
+Added Player:Andrea Pirlo - 18369
+Mapped:18369 with 1515
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18370, 'Marco Verratti')
+Added Player:Marco Verratti - 18370
+Mapped:18370 with 1515
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18371, 'Mario Balotelli')
+Added Player:Mario Balotelli - 18371
+Mapped:18371 with 1515
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18372, 'Antonio Cassano')
+Added Player:Antonio Cassano - 18372
+Mapped:18372 with 1515
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18373, 'Alessio Cerci')
+Added Player:Alessio Cerci - 18373
+Mapped:18373 with 1515
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18374, 'Ciro Immobile')
+Added Player:Ciro Immobile - 18374
+Mapped:18374 with 1515
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18375, 'Lorenzo Insigne')
+Added Player:Lorenzo Insigne - 18375
+Mapped:18375 with 1515
+select * from TEAM t where t.NAME = 'japan' AND t.YEAR = 2014
+1516  
+japan2014
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18376, 'Eiji Kawashima')
+Added Player:Eiji Kawashima - 18376
+Mapped:18376 with 1516
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18377, 'Shusaku Nishikawa')
+Added Player:Shusaku Nishikawa - 18377
+Mapped:18377 with 1516
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18378, 'Shūichi Gonda')
+Added Player:Shūichi Gonda - 18378
+Mapped:18378 with 1516
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18379, 'Atsuto Uchida')
+Added Player:Atsuto Uchida - 18379
+Mapped:18379 with 1516
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18380, 'Gōtoku Sakai')
+Added Player:Gōtoku Sakai - 18380
+Mapped:18380 with 1516
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18381, 'Yuto Nagatomo')
+Added Player:Yuto Nagatomo - 18381
+Mapped:18381 with 1516
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18382, 'Masato Morishige')
+Added Player:Masato Morishige - 18382
+Mapped:18382 with 1516
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18383, 'Yasuyuki Konno')
+Added Player:Yasuyuki Konno - 18383
+Mapped:18383 with 1516
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18384, 'Masahiko Inoha')
+Added Player:Masahiko Inoha - 18384
+Mapped:18384 with 1516
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18385, 'Hiroki Sakai')
+Added Player:Hiroki Sakai - 18385
+Mapped:18385 with 1516
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18386, 'Maya Yoshida')
+Added Player:Maya Yoshida - 18386
+Mapped:18386 with 1516
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18387, 'Keisuke Honda')
+Added Player:Keisuke Honda - 18387
+Mapped:18387 with 1516
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18388, 'Yasuhito Endō')
+Added Player:Yasuhito Endō - 18388
+Mapped:18388 with 1516
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18389, 'Hiroshi Kiyotake')
+Added Player:Hiroshi Kiyotake - 18389
+Mapped:18389 with 1516
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18390, 'Shinji Kagawa')
+Added Player:Shinji Kagawa - 18390
+Mapped:18390 with 1516
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18391, 'Toshihiro Aoyama')
+Added Player:Toshihiro Aoyama - 18391
+Mapped:18391 with 1516
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18392, 'Hotaru Yamaguchi')
+Added Player:Hotaru Yamaguchi - 18392
+Mapped:18392 with 1516
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18393, 'Makoto Hasebe')
+Added Player:Makoto Hasebe - 18393
+Mapped:18393 with 1516
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18394, 'Shinji Okazaki')
+Added Player:Shinji Okazaki - 18394
+Mapped:18394 with 1516
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18395, 'Yoichiro Kakitani')
+Added Player:Yoichiro Kakitani - 18395
+Mapped:18395 with 1516
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18396, 'Yoshito Ōkubo')
+Added Player:Yoshito Ōkubo - 18396
+Mapped:18396 with 1516
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18397, 'Yuya Osako')
+Added Player:Yuya Osako - 18397
+Mapped:18397 with 1516
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18398, 'Manabu Saitō')
+Added Player:Manabu Saitō - 18398
+Mapped:18398 with 1516
+select * from TEAM t where t.NAME = 'south-korea' AND t.YEAR = 2014
+1517  
+south-korea2014
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18399, 'Jung Sung-Ryong')
+Added Player:Jung Sung-Ryong - 18399
+Mapped:18399 with 1517
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18400, 'Kim Seung-Gyu')
+Added Player:Kim Seung-Gyu - 18400
+Mapped:18400 with 1517
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18401, 'Lee Bum-Young')
+Added Player:Lee Bum-Young - 18401
+Mapped:18401 with 1517
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18402, 'Kim Chang-Soo')
+Added Player:Kim Chang-Soo - 18402
+Mapped:18402 with 1517
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18403, 'Yun Suk-Young')
+Added Player:Yun Suk-Young - 18403
+Mapped:18403 with 1517
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18404, 'Kwak Tae-Hwi')
+Added Player:Kwak Tae-Hwi - 18404
+Mapped:18404 with 1517
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18405, 'Kim Young-Gwon')
+Added Player:Kim Young-Gwon - 18405
+Mapped:18405 with 1517
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18406, 'Hwang Seok-Ho')
+Added Player:Hwang Seok-Ho - 18406
+Mapped:18406 with 1517
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18407, 'Lee Yong')
+Added Player:Lee Yong - 18407
+Mapped:18407 with 1517
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18408, 'Hong Jeong-Ho')
+Added Player:Hong Jeong-Ho - 18408
+Mapped:18408 with 1517
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18409, 'Park Joo-Ho')
+Added Player:Park Joo-Ho - 18409
+Mapped:18409 with 1517
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18410, 'Kim Bo-Kyung')
+Added Player:Kim Bo-Kyung - 18410
+Mapped:18410 with 1517
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18411, 'Ha Dae-Sung')
+Added Player:Ha Dae-Sung - 18411
+Mapped:18411 with 1517
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18412, 'Koo Ja-Cheol')
+Added Player:Koo Ja-Cheol - 18412
+Mapped:18412 with 1517
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18413, 'Han Kook-Young')
+Added Player:Han Kook-Young - 18413
+Mapped:18413 with 1517
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18414, 'Park Jong-Woo')
+Added Player:Park Jong-Woo - 18414
+Mapped:18414 with 1517
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18415, 'Ki Sung-Yueng')
+Added Player:Ki Sung-Yueng - 18415
+Mapped:18415 with 1517
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18416, 'Lee Chung-Yong')
+Added Player:Lee Chung-Yong - 18416
+Mapped:18416 with 1517
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18417, 'Son Heung-Min')
+Added Player:Son Heung-Min - 18417
+Mapped:18417 with 1517
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18418, 'Park Chu-Young')
+Added Player:Park Chu-Young - 18418
+Mapped:18418 with 1517
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18419, 'Lee Keun-Ho')
+Added Player:Lee Keun-Ho - 18419
+Mapped:18419 with 1517
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18420, 'Kim Shin-Wook')
+Added Player:Kim Shin-Wook - 18420
+Mapped:18420 with 1517
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18421, 'Ji Dong-Won')
+Added Player:Ji Dong-Won - 18421
+Mapped:18421 with 1517
+select * from TEAM t where t.NAME = 'mexico' AND t.YEAR = 2014
+1518  
+mexico2014
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18422, 'José de Jesús Corona')
+Added Player:José de Jesús Corona - 18422
+Mapped:18422 with 1518
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18423, 'Alfredo Talavera')
+Added Player:Alfredo Talavera - 18423
+Mapped:18423 with 1518
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18424, 'Guillermo Ochoa')
+Added Player:Guillermo Ochoa - 18424
+Mapped:18424 with 1518
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18425, 'Francisco Javier Rodríguez')
+java.sql.SQLException: ORA-12899: value too large for column "DBCLASS166"."PLAYER"."NAME" (actual: 26, maximum: 20)
+
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:447)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:396)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:951)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:513)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:227)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:531)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:195)
+	at oracle.jdbc.driver.T4CStatement.executeForRows(T4CStatement.java:1036)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1336)
+	at oracle.jdbc.driver.OracleStatement.executeUpdateInternal(OracleStatement.java:1845)
+	at oracle.jdbc.driver.OracleStatement.executeUpdate(OracleStatement.java:1810)
+	at oracle.jdbc.driver.OracleStatementWrapper.executeUpdate(OracleStatementWrapper.java:294)
+	at PopulateTables.addPlayers(PopulateTables.java:42)
+	at GatherData.getPlayers(GatherData.java:113)
+	at GatherData.main(GatherData.java:139)
+select * from TEAM t where t.NAME = 'nigeria' AND t.YEAR = 2014
+1519  
+nigeria2014
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18425, 'Vincent Enyeama')
+Added Player:Vincent Enyeama - 18425
+Mapped:18425 with 1519
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18426, 'Austin Ejide')
+Added Player:Austin Ejide - 18426
+Mapped:18426 with 1519
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18427, 'Chigozie Agbim')
+Added Player:Chigozie Agbim - 18427
+Mapped:18427 with 1519
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18428, 'Joseph Yobo')
+Added Player:Joseph Yobo - 18428
+Mapped:18428 with 1519
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18429, 'Uwa Elderson Echiéjilé')
+java.sql.SQLException: ORA-12899: value too large for column "DBCLASS166"."PLAYER"."NAME" (actual: 22, maximum: 20)
+
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:447)
+	at oracle.jdbc.driver.T4CTTIoer.processError(T4CTTIoer.java:396)
+	at oracle.jdbc.driver.T4C8Oall.processError(T4C8Oall.java:951)
+	at oracle.jdbc.driver.T4CTTIfun.receive(T4CTTIfun.java:513)
+	at oracle.jdbc.driver.T4CTTIfun.doRPC(T4CTTIfun.java:227)
+	at oracle.jdbc.driver.T4C8Oall.doOALL(T4C8Oall.java:531)
+	at oracle.jdbc.driver.T4CStatement.doOall8(T4CStatement.java:195)
+	at oracle.jdbc.driver.T4CStatement.executeForRows(T4CStatement.java:1036)
+	at oracle.jdbc.driver.OracleStatement.doExecuteWithTimeout(OracleStatement.java:1336)
+	at oracle.jdbc.driver.OracleStatement.executeUpdateInternal(OracleStatement.java:1845)
+	at oracle.jdbc.driver.OracleStatement.executeUpdate(OracleStatement.java:1810)
+	at oracle.jdbc.driver.OracleStatementWrapper.executeUpdate(OracleStatementWrapper.java:294)
+	at PopulateTables.addPlayers(PopulateTables.java:42)
+	at GatherData.getPlayers(GatherData.java:113)
+	at GatherData.main(GatherData.java:139)
+select * from TEAM t where t.NAME = 'netherlands' AND t.YEAR = 2014
+1520  
+netherlands2014
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18429, 'Jasper Cillessen')
+Added Player:Jasper Cillessen - 18429
+Mapped:18429 with 1520
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18430, 'Michel Vorm')
+Added Player:Michel Vorm - 18430
+Mapped:18430 with 1520
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18431, 'Tim Krul')
+Added Player:Tim Krul - 18431
+Mapped:18431 with 1520
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18432, 'Ron Vlaar')
+Added Player:Ron Vlaar - 18432
+Mapped:18432 with 1520
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18433, 'Stefan de Vrij')
+Added Player:Stefan de Vrij - 18433
+Mapped:18433 with 1520
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18434, 'Bruno Martins Indi')
+Added Player:Bruno Martins Indi - 18434
+Mapped:18434 with 1520
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18435, 'Daley Blind')
+Added Player:Daley Blind - 18435
+Mapped:18435 with 1520
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18436, 'Daryl Janmaat')
+Added Player:Daryl Janmaat - 18436
+Mapped:18436 with 1520
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18437, 'Paul Verhaegh')
+Added Player:Paul Verhaegh - 18437
+Mapped:18437 with 1520
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18438, 'Joël Veltman')
+Added Player:Joël Veltman - 18438
+Mapped:18438 with 1520
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18439, 'Terence Kongolo')
+Added Player:Terence Kongolo - 18439
+Mapped:18439 with 1520
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18440, 'Jonathan de Guzmán')
+Added Player:Jonathan de Guzmán - 18440
+Mapped:18440 with 1520
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18441, 'Nigel de Jong')
+Added Player:Nigel de Jong - 18441
+Mapped:18441 with 1520
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18442, 'Wesley Sneijder')
+Added Player:Wesley Sneijder - 18442
+Mapped:18442 with 1520
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18443, 'Arjen Robben')
+Added Player:Arjen Robben - 18443
+Mapped:18443 with 1520
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18444, 'Jordy Clasie')
+Added Player:Jordy Clasie - 18444
+Mapped:18444 with 1520
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18445, 'Leroy Fer')
+Added Player:Leroy Fer - 18445
+Mapped:18445 with 1520
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18446, 'Georginio Wijnaldum')
+Added Player:Georginio Wijnaldum - 18446
+Mapped:18446 with 1520
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18447, 'Memphis Depay')
+Added Player:Memphis Depay - 18447
+Mapped:18447 with 1520
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18448, 'Robin van Persie')
+Added Player:Robin van Persie - 18448
+Mapped:18448 with 1520
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18449, 'Dirk Kuyt')
+Added Player:Dirk Kuyt - 18449
+Mapped:18449 with 1520
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18450, 'Jeremain Lens')
+Added Player:Jeremain Lens - 18450
+Mapped:18450 with 1520
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18451, 'Klaas-Jan Huntelaar')
+Added Player:Klaas-Jan Huntelaar - 18451
+Mapped:18451 with 1520
+select * from TEAM t where t.NAME = 'portugal' AND t.YEAR = 2014
+1521  
+portugal2014
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18452, 'Eduardo')
+Added Player:Eduardo - 18452
+Mapped:18452 with 1521
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18453, 'Rui Patrício')
+Added Player:Rui Patrício - 18453
+Mapped:18453 with 1521
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18454, 'Beto')
+Added Player:Beto - 18454
+Mapped:18454 with 1521
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18455, 'Bruno Alves')
+Added Player:Bruno Alves - 18455
+Mapped:18455 with 1521
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18456, 'Pepe')
+Added Player:Pepe - 18456
+Mapped:18456 with 1521
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18457, 'Fábio Coentrão')
+Added Player:Fábio Coentrão - 18457
+Mapped:18457 with 1521
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18458, 'Ricardo Costa')
+Added Player:Ricardo Costa - 18458
+Mapped:18458 with 1521
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18459, 'Luís Neto')
+Added Player:Luís Neto - 18459
+Mapped:18459 with 1521
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18460, 'André Almeida')
+Added Player:André Almeida - 18460
+Mapped:18460 with 1521
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18461, 'João Pereira')
+Added Player:João Pereira - 18461
+Mapped:18461 with 1521
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18462, 'Miguel Veloso')
+Added Player:Miguel Veloso - 18462
+Mapped:18462 with 1521
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18463, 'William Carvalho')
+Added Player:William Carvalho - 18463
+Mapped:18463 with 1521
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18464, 'João Moutinho')
+Added Player:João Moutinho - 18464
+Mapped:18464 with 1521
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18465, 'Vieirinha')
+Added Player:Vieirinha - 18465
+Mapped:18465 with 1521
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18466, 'Rafa Silva')
+Added Player:Rafa Silva - 18466
+Mapped:18466 with 1521
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18467, 'Raul Meireles')
+Added Player:Raul Meireles - 18467
+Mapped:18467 with 1521
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18468, 'Nani')
+Added Player:Nani - 18468
+Mapped:18468 with 1521
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18469, 'Silvestre Varela')
+Added Player:Silvestre Varela - 18469
+Mapped:18469 with 1521
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18470, 'Rúben Amorim')
+Added Player:Rúben Amorim - 18470
+Mapped:18470 with 1521
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18471, 'Cristiano Ronaldo')
+Added Player:Cristiano Ronaldo - 18471
+Mapped:18471 with 1521
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18472, 'Hugo Almeida')
+Added Player:Hugo Almeida - 18472
+Mapped:18472 with 1521
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18473, 'Éder')
+Added Player:Éder - 18473
+Mapped:18473 with 1521
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18474, 'Hélder Postiga')
+Added Player:Hélder Postiga - 18474
+Mapped:18474 with 1521
+select * from TEAM t where t.NAME = 'russia' AND t.YEAR = 2014
+1522  
+russia2014
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18475, 'Igor Akinfeev')
+Added Player:Igor Akinfeev - 18475
+Mapped:18475 with 1522
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18476, 'Yuri Lodygin')
+Added Player:Yuri Lodygin - 18476
+Mapped:18476 with 1522
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18477, 'Sergey Ryzhikov')
+Added Player:Sergey Ryzhikov - 18477
+Mapped:18477 with 1522
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18478, 'Aleksei Kozlov')
+Added Player:Aleksei Kozlov - 18478
+Mapped:18478 with 1522
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18479, 'Georgi Shchennikov')
+Added Player:Georgi Shchennikov - 18479
+Mapped:18479 with 1522
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18480, 'Sergei Ignashevich')
+Added Player:Sergei Ignashevich - 18480
+Mapped:18480 with 1522
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18481, 'Andrei Semyonov')
+Added Player:Andrei Semyonov - 18481
+Mapped:18481 with 1522
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18482, 'Vladimir Granat')
+Added Player:Vladimir Granat - 18482
+Mapped:18482 with 1522
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18483, 'Vasili Berezutski')
+Added Player:Vasili Berezutski - 18483
+Mapped:18483 with 1522
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18484, 'Andrey Yeshchenko')
+Added Player:Andrey Yeshchenko - 18484
+Mapped:18484 with 1522
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18485, 'Dmitri Kombarov')
+Added Player:Dmitri Kombarov - 18485
+Mapped:18485 with 1522
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18486, 'Igor Denisov')
+Added Player:Igor Denisov - 18486
+Mapped:18486 with 1522
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18487, 'Denis Glushakov')
+Added Player:Denis Glushakov - 18487
+Mapped:18487 with 1522
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18488, 'Alan Dzagoev')
+Added Player:Alan Dzagoev - 18488
+Mapped:18488 with 1522
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18489, 'Roman Shirokov')
+Added Player:Roman Shirokov - 18489
+Mapped:18489 with 1522
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18490, 'Oleg Shatov')
+Added Player:Oleg Shatov - 18490
+Mapped:18490 with 1522
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18491, 'Viktor Fayzulin')
+Added Player:Viktor Fayzulin - 18491
+Mapped:18491 with 1522
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18492, 'Maksim Kanunnikov')
+Added Player:Maksim Kanunnikov - 18492
+Mapped:18492 with 1522
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18493, 'Aleksandr Kokorin')
+Added Player:Aleksandr Kokorin - 18493
+Mapped:18493 with 1522
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18494, 'Aleksandr Kerzhakov')
+Added Player:Aleksandr Kerzhakov - 18494
+Mapped:18494 with 1522
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18495, 'Yuri Zhirkov')
+Added Player:Yuri Zhirkov - 18495
+Mapped:18495 with 1522
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18496, 'Aleksandr Samedov')
+Added Player:Aleksandr Samedov - 18496
+Mapped:18496 with 1522
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18497, 'Aleksei Ionov')
+Added Player:Aleksei Ionov - 18497
+Mapped:18497 with 1522
+select * from TEAM t where t.NAME = 'united-states' AND t.YEAR = 2014
+1523  
+united-states2014
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18498, 'Tim Howard')
+Added Player:Tim Howard - 18498
+Mapped:18498 with 1523
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18499, 'Brad Guzan')
+Added Player:Brad Guzan - 18499
+Mapped:18499 with 1523
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18500, 'Nick Rimando')
+Added Player:Nick Rimando - 18500
+Mapped:18500 with 1523
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18501, 'DeAndre Yedlin')
+Added Player:DeAndre Yedlin - 18501
+Mapped:18501 with 1523
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18502, 'Omar Gonzalez')
+Added Player:Omar Gonzalez - 18502
+Mapped:18502 with 1523
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18503, 'Matt Besler')
+Added Player:Matt Besler - 18503
+Mapped:18503 with 1523
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18504, 'John Brooks')
+Added Player:John Brooks - 18504
+Mapped:18504 with 1523
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18505, 'DaMarcus Beasley')
+Added Player:DaMarcus Beasley - 18505
+Mapped:18505 with 1523
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18506, 'Geoff Cameron')
+Added Player:Geoff Cameron - 18506
+Mapped:18506 with 1523
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18507, 'Timothy Chandler')
+Added Player:Timothy Chandler - 18507
+Mapped:18507 with 1523
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18508, 'Fabian Johnson')
+Added Player:Fabian Johnson - 18508
+Mapped:18508 with 1523
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18509, 'Michael Bradley')
+Added Player:Michael Bradley - 18509
+Mapped:18509 with 1523
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18510, 'Mikkel Diskerud')
+Added Player:Mikkel Diskerud - 18510
+Mapped:18510 with 1523
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18511, 'Alejandro Bedoya')
+Added Player:Alejandro Bedoya - 18511
+Mapped:18511 with 1523
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18512, 'Jermaine Jones')
+Added Player:Jermaine Jones - 18512
+Mapped:18512 with 1523
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18513, 'Brad Davis')
+Added Player:Brad Davis - 18513
+Mapped:18513 with 1523
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18514, 'Kyle Beckerman')
+Added Player:Kyle Beckerman - 18514
+Mapped:18514 with 1523
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18515, 'Julian Green')
+Added Player:Julian Green - 18515
+Mapped:18515 with 1523
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18516, 'Graham Zusi')
+Added Player:Graham Zusi - 18516
+Mapped:18516 with 1523
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18517, 'Clint Dempsey')
+Added Player:Clint Dempsey - 18517
+Mapped:18517 with 1523
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18518, 'Aron Jóhannsson')
+Added Player:Aron Jóhannsson - 18518
+Mapped:18518 with 1523
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18519, 'Jozy Altidore')
+Added Player:Jozy Altidore - 18519
+Mapped:18519 with 1523
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18520, 'Chris Wondolowski')
+Added Player:Chris Wondolowski - 18520
+Mapped:18520 with 1523
+select * from TEAM t where t.NAME = 'uruguay' AND t.YEAR = 2014
+1524  
+uruguay2014
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18521, 'Fernando Muslera')
+Added Player:Fernando Muslera - 18521
+Mapped:18521 with 1524
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18522, 'Rodrigo Muñoz')
+Added Player:Rodrigo Muñoz - 18522
+Mapped:18522 with 1524
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18523, 'Martín Silva')
+Added Player:Martín Silva - 18523
+Mapped:18523 with 1524
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18524, 'Diego Lugano')
+Added Player:Diego Lugano - 18524
+Mapped:18524 with 1524
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18525, 'Diego Godín')
+Added Player:Diego Godín - 18525
+Mapped:18525 with 1524
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18526, 'Sebastián Coates')
+Added Player:Sebastián Coates - 18526
+Mapped:18526 with 1524
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18527, 'Jorge Fucile')
+Added Player:Jorge Fucile - 18527
+Mapped:18527 with 1524
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18528, 'Maxi Pereira')
+Added Player:Maxi Pereira - 18528
+Mapped:18528 with 1524
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18529, 'José María Giménez')
+Added Player:José María Giménez - 18529
+Mapped:18529 with 1524
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18530, 'Martín Cáceres')
+Added Player:Martín Cáceres - 18530
+Mapped:18530 with 1524
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18531, 'Walter Gargano')
+Added Player:Walter Gargano - 18531
+Mapped:18531 with 1524
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18532, 'Álvaro Pereira')
+Added Player:Álvaro Pereira - 18532
+Mapped:18532 with 1524
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18533, 'Cristian Rodríguez')
+Added Player:Cristian Rodríguez - 18533
+Mapped:18533 with 1524
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18534, 'Nicolás Lodeiro')
+Added Player:Nicolás Lodeiro - 18534
+Mapped:18534 with 1524
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18535, 'Diego Pérez')
+Added Player:Diego Pérez - 18535
+Mapped:18535 with 1524
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18536, 'Egidio Arévalo Ríos')
+Added Player:Egidio Arévalo Ríos - 18536
+Mapped:18536 with 1524
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18537, 'Gastón Ramírez')
+Added Player:Gastón Ramírez - 18537
+Mapped:18537 with 1524
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18538, 'Álvaro González')
+Added Player:Álvaro González - 18538
+Mapped:18538 with 1524
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18539, 'Abel Hernández')
+Added Player:Abel Hernández - 18539
+Mapped:18539 with 1524
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18540, 'Luis Suárez')
+Added Player:Luis Suárez - 18540
+Mapped:18540 with 1524
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18541, 'Diego Forlán')
+Added Player:Diego Forlán - 18541
+Mapped:18541 with 1524
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18542, 'Christian Stuani')
+Added Player:Christian Stuani - 18542
+Mapped:18542 with 1524
+Added Player:INSERT INTO PLAYER (P_ID,NAME) VALUES(18543, 'Edinson Cavani')
+Added Player:Edinson Cavani - 18543
+Mapped:18543 with 1524
